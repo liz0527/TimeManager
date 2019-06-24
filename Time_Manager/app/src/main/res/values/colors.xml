@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="halfTransparent">#b3ffffff</color>
+    <color name="majorOrange">#ff8e01</color>
+    <color name="blueBackground">#0f0125</color>
+    <color name="fontColor">#000000</color>
+    <color name="chartWhite">#ffffff</color>
+    <color name="chartGrayLight">#b3b3b3</color>
+    <color name="chartGray">#4d4d4d</color>
+    <color name="lightOrange">#EAE2B7</color>
+    <color name="orange">#FCBF49</color>
+    <color name="darkOrange">#F77F00</color>
+    <color name="tableBackgroundWhite">#ffffff</color>
+    <color name="tableBackgroundPink">#4bff8e00</color>
+
+    <color name="LabelLearing">#E15244</color>
+    <color name="LabelSelfLearing">#C32E52</color>
+    <color name="LabelClub">#95245C</color>
+    <color name="LabelEntertainment">#722C81</color>
+    <color name="LabelTransport">#48369B</color>
+    <color name="LabelEat">#28CBB3</color>
+    <color name="LabelRest">#3CCB87</color>
+    <color name="LabelSleep">#A9CD3E</color>
+    <color name="LabelLife">#3AB7D9</color>
+    <color name="LabelSports">#0E568F</color>
+    <color name="LabelOther">#FDBD3E</color>
+
+</resources>
